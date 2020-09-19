@@ -6,11 +6,9 @@ FOR Test Results in Allure Reports
 
 2.Go to Environment Variables-System Variables-Path-Edit-New and save C:\allure-2.13.1\bin
 
-3.Check Allure versions
-    allure --version
+3.Check Allure versions, command in Windows Command promt:  allure --version
     
-4.Then, run below command in Windows Command promt:
-    allure serve D:\Users\eyagiz\Documents\myProject\allure-results
+4.Then, run below command in Windows Command promt:  allure serve D:\Users\eyagiz\Documents\myProject\allure-results
 
 
 
